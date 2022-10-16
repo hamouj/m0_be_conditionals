@@ -1,7 +1,7 @@
-integer = 4
+integer = 3
 
 if integer.even? == true
     puts "even"
-else integer.even? == false
+elsif integer.even? == false
     puts "odd"
 end
