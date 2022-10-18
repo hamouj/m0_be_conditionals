@@ -45,7 +45,8 @@ num_quarters = 4
 
 if num_quarters >= 2
   puts "I have enough money for a gumball"
-else puts "I don't have enough money for a gumball"
+else 
+  puts "I don't have enough money for a gumball"
 end
 
 
