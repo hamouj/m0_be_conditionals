@@ -2,7 +2,7 @@
 
 1. How confident do you feel in your understanding and fluency with the comparison operators?
 
-I feel pretty confident with my understanding of the comparison operators, but need more practice to get fluent in using them correctly and when needed (i.e. when working with Booleans).
+I feel pretty confident with my understanding of the comparison operators, but still sometimes forget the ==.
 
 1. How confident do you feel in your understanding and fluency with the logical operators?
 
@@ -10,11 +10,11 @@ I feel confident in my understanding and fluency with the && and || logical oper
 
 1. How confident do you feel in your understanding and fluency with the if statements?
 
-I feel confident in creating if statements, but am definitely still learning some of the methods used to manipulate the variables for the if statements (i.e. using modulo, even/odd, etc.).
+I feel confident in creating if statements, but am definitely still learning some of the methods called for the if statements (i.e. using modulo, even/odd, etc.).
 
 1. How much time did you spend on this lesson/topic? How did that line up with your time estimate?
 
-I estimated about an hour for this activity before previewing the different parts. It took me 1.5 hours, so definitely more time than I originally thought.
+I estimated about an hour for this activity before previewing the different parts. It took me 2 hours, so definitely more time than I originally thought.
 
 1. What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
 
