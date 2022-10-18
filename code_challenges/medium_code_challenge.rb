@@ -6,5 +6,6 @@ elsif integer%3 == 0
     puts "Fizz"
 elsif integer%5 == 0
     puts "Buzz"
-else puts integer
+else 
+    puts integer
 end
