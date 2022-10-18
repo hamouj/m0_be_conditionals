@@ -38,19 +38,19 @@ end
 # This line of code assigns the value for the variable #bear_clothing based on the value of the variable #door_choice.
 
 # 2. What variable has a new value assigned to it after the first if statement executes?
-# bear_clothing
+# bear_clothing has a new value assigned to it after the first if statement is executed.
 
 # 3. If you changed the variable door_choice to equal 3, what would the bear_clothing value be?
-# bear_clothing = "scarf"
+# The bear_clothing value would be the string, "scarf".
 
 # 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
-# This line of code assigns the output message based on the value of variable #bear_choice.
+# This line of code assigns the output string based on the value of variable #bear_choice.
 
 # 5. If you changed the variable bear_choice to equal 3, what will the final outcome be?
-# The final output would be, "You run as fast as you can into the next room. It's full of snakes!"
+# The final output would be the string, "You run as fast as you can into the next room. It's full of snakes!"
 
 # 6. If you changed the variable door_choice to equal 1, and the variable bear_choice to equal 2, what will the final outcome be?
-# The final outcome would be, "You tell the bear the hat is too small and it starts to cry!""
+# The final outcome would be the string, "You tell the bear the hat is too small and it starts to cry!"
 
 # 7. What is your favorite ending?
 # My favorite ending is the final ending where you and the bear become best friends.
